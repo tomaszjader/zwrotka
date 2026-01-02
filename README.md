@@ -1,4 +1,4 @@
-# Gmail Auto-Responder Workflow
+# Gmail Auto-Responder
 
 Prosta automatyzacja n8n do automatycznego potwierdzania odbioru wiadomości.
 
